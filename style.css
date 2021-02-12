@@ -20,7 +20,7 @@ h1 {
     top: 6%;
     left: 50%;
     transform: translate(-50%);
-    z-index: 2;
+    /* z-index: 1; */
     font-family: 'Brygada 1918', serif;
     font-size: 50px;
     background-color: rgba(34, 32, 32, 0.6);
@@ -43,7 +43,7 @@ div.a {
 
 @keyframes pictures {
     0% {
-        opacity: 0
+        opacity: 0;
     }
 
     40% {
