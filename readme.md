@@ -17,8 +17,8 @@ The all animation lasts only 7 seconds beacuse its my first little project which
 ---
 
 ```sh 
-  - Html 5
-  - CSS 3
+  * Html 5
+  * CSS 3
 ```
 
 ### Thank you !
